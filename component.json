@@ -1,6 +1,7 @@
 {
   "name": "component-graph",
   "description": "component graph app",
-  "paths": ["lib"],
-  "local": ["boot"]
+  "scripts": [
+    "lib/boot/index.js"  
+  ]
 }
